@@ -1,2 +1,2 @@
 # zhao-tang
-Micropython on Pyboard, ESP
+nec ir remote class for Pyboard, ESP(Micropython)
