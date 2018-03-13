@@ -6,6 +6,6 @@ NEC IR remote reciever class for Pyboard, ESP(Micropython)
         print(a, c, r)				# Address, Command, Repeat
 
 
-    from necir-xxx import NecIr      # replace the -xxx to pyboard or esp
+    from necir-xxx import NecIr                     # replace the -xxx to pyboard or esp
     nec = NecIr()
     nec.callback(nec_cb)
