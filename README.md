@@ -1,5 +1,5 @@
 # Micropython-necir
-nec ir remote class for Pyboard, ESP(Micropython)
+NEC IR remote reciever class for Pyboard, ESP(Micropython)
 
 # Usage 
     def nec_cb(nec, a, c, r)
